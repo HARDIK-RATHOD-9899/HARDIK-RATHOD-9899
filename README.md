@@ -19,7 +19,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardik-rathod-9899" alt="hardik-rathod-9899" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/rathodhard22933" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/rathodhard22933?logo=twitter&style=for-the-badge" alt="https://x.com/rathodhard22933" /></a> </p>
 
 
   
