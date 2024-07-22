@@ -75,8 +75,10 @@
   <hr/>
   <br/>
 
+<div style="display:flex;">
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik-rathod-9899&show_icons=true&locale=en&layout=compact" alt="hardik-rathod-9899" /></p> <br/>
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=hardik-rathod-9899&show_icons=true&locale=en" alt="hardik-rathod-9899" /></p>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-rathod-9899&" alt="hardik-rathod-9899" /></p>
+</div>
