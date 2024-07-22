@@ -35,7 +35,7 @@
   ✌️ &emsp; Enjoy to do programming  <br/><br/>
   ❤️ &emsp; Love to writing code and learning new features<br/><br/>
   📧 &emsp; Reach me anytime: hardikrathod9899@gmail.com<br/><br/>
- <p align="center">
+ <p >
 
   <a href="https://www.linkedin.com/in/hardik-rathod-2a025b269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
