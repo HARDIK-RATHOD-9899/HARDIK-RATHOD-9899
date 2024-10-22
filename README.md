@@ -15,10 +15,6 @@
   </h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik-rathod-9899&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-rathod-9899" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardik-rathod-9899" alt="hardik-rathod-9899" /></a> </p>
-
 
 
   
@@ -35,7 +31,9 @@
   ✌️ &emsp; Enjoy to do programming  <br/><br/>
   ❤️ &emsp; Love to writing code and learning new features<br/><br/>
   📧 &emsp; Reach me anytime: hardikrathod9899@gmail.com<br/><br/>
+  💼 &emsp; <a href="https://hardik-rathod-9899.github.io/">My Portfolio</a>
  <p >
+ <br/>
 
   <a href="https://www.linkedin.com/in/hardik-rathod-2a025b269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
@@ -76,9 +74,16 @@
   <br/>
 
 <div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik-rathod-9899&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-rathod-9899" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardik-rathod-9899" alt="hardik-rathod-9899" /></a> </p>
+
+
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik-rathod-9899&show_icons=true&locale=en&layout=compact" alt="hardik-rathod-9899" /></p> <br/>
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=hardik-rathod-9899&show_icons=true&locale=en" alt="hardik-rathod-9899" /></p>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-rathod-9899&" alt="hardik-rathod-9899" /></p>
+
+
 </div>
