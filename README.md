@@ -32,7 +32,7 @@
   ❤️ &emsp; Love to writing code and learning new features<br/><br/>
   📧 &emsp; Reach me anytime: hardikrathod9899@gmail.com<br/><br/>
   💼 &emsp; <a href="https://hardik-rathod-9899.github.io/" target="__blank">My Portfolio</a> <br/><br/>
-  📝 &emsp; <a href="https://drive.google.com/file/d/13My6tbciw22Wj8FeofnZd1lT7IxrDcJN/view?usp=drive_link">My Resume</a>
+  📝 &emsp; <a href="https://drive.google.com/file/d/1BjkAwWtzHbUg6-uBkXtVnKm9i5LQ0Nsz/view?usp=drive_link" target="__blank">My Resume</a>
  <p >
  <br/>
 
