@@ -31,7 +31,7 @@
   ✌️ &emsp; Enjoy to do programming  <br/><br/>
   ❤️ &emsp; Love to writing code and learning new features<br/><br/>
   📧 &emsp; Reach me anytime: hardikrathod9899@gmail.com<br/><br/>
-  💼 &emsp; <a href="https://hardik-rathod-9899.github.io/">My Portfolio</a>
+  💼 &emsp; <a href="https://hardik-rathod-9899.github.io/" target="_blank">My Portfolio</a>
  <p >
  <br/>
 
